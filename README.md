@@ -1,4 +1,4 @@
-# Docusaurus 2
+# Adball Tech
 
 This directory is a brief example of a [Docusaurus](https://v2.docusaurus.io) site that can be deployed to Vercel with zero configuration.
 
@@ -12,7 +12,7 @@ _Live Example: https://docusaurus-2-template.vercel.app_
 
 ### How We Created This Example
 
-To get started with Docusaurus on Vercel, you can use the [Docusaurus CLI](https://v2.docusaurus.io/docs/installation#scaffold-project-website) to initialize the project:
+To get started with Abt News on Blogging , you can use the [Docusaurus CLI](https://v2.docusaurus.io/docs/installation#scaffold-project-website) to initialize the project:
 
 ```shell
 npx create-docusaurus@latest my-website classic
